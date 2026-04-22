@@ -92,10 +92,11 @@ npm run dev
 2. Notification system
 3. Report generation.
 
-## Author 
-**Anindita Dhar**
--Github: https://github.com/aninbestronger6138038-gif
--LinkedIn: https://www.linkedin.com/in/anindita-dhar-479133207/
+## Author
+- Anindita Dhar
+- GitHub: [Profile](https://github.com/aninbestronger6138038-gif)
+- LinkedIn: [Profile](https://www.linkedin.com/in/anindita-dhar-479133207/)
+
 
 ## License
 This project is developed for academic and placement purposes. 
