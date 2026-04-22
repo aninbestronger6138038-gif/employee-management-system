@@ -79,7 +79,7 @@ npm install
 npm run dev
 ```
 
-### Workflow
+## Workflow
 1. Admin logs into the system.
 2. Manages departments, employee records , leave approval and salary details.
 3. Employees log innto the sytem.
@@ -94,7 +94,8 @@ npm run dev
 
 ### Author 
 **Anindita Dhar**
-
+Github: https://github.com/aninbestronger6138038-gif
+LinkedIn: https://www.linkedin.com/in/anindita-dhar-479133207/
 
 ### License
 This project is developed for academic and placement purposes. 
